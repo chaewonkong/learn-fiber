@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"learn_fiber/service"
+	"github.com/chaewonkong/learn-fiber/service"
 
 	"github.com/gofiber/fiber/v2"
 )

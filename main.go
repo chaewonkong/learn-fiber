@@ -1,10 +1,9 @@
 package main
 
 import (
-	"learn_fiber/controller"
-	"learn_fiber/database"
-	"learn_fiber/service"
-
+	"github.com/chaewonkong/learn-fiber/controller"
+	"github.com/chaewonkong/learn-fiber/database"
+	"github.com/chaewonkong/learn-fiber/service"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/gofiber/fiber/v2/middleware/monitor"

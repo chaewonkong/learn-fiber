@@ -1,9 +1,9 @@
 package database
 
 import (
-	"learn_fiber/entity"
 	"log"
 
+	"github.com/chaewonkong/learn-fiber/entity"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )

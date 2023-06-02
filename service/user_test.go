@@ -2,8 +2,9 @@ package service_test
 
 import (
 	"context"
-	"learn_fiber/service"
 	"testing"
+
+	"github.com/chaewonkong/learn-fiber/service"
 
 	"github.com/stretchr/testify/assert"
 )

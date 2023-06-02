@@ -1,4 +1,4 @@
-module learn_fiber
+module github.com/chaewonkong/learn-fiber
 
 go 1.20
 
